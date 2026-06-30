@@ -1,0 +1,7 @@
+data_name: Farm
+max_epoch: 100
+learning_rate: 0.005
+weight_decay: 0
+
+save_path: ./results
+

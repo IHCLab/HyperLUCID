@@ -1,0 +1,7 @@
+Please download "Farm1.mat", "Farm2.mat", and "label.mat" from the following link: https://drive.google.com/drive/folders/1NVL55rcXokz98Flvh9ryu1QsrH0rl8Me?usp=sharing, and put each file in the corresponding folder as follows:
+
+"Farm1.mat" → "HyperLUCID_demo\Data"
+
+"Farm2.mat" → "HyperLUCID_demo\Data"
+
+"label.mat" → "HyperLUCID_demo\Data"
